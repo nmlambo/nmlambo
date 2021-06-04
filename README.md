@@ -7,4 +7,3 @@ I believe that user experience and accessibility advocates need strong allies in
 - 👯 I am open to collaborating!
 - 🤝 I’m looking forward to make an amazing connection with you on <a href="https://www.linkedin.com/in/ndumiso-mlambo-a7a93423/" rel="nofollow">LinkedIn</a>
 
--->
