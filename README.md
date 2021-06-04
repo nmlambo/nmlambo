@@ -6,6 +6,6 @@ I believe that user experience and accessibility advocates need strong allies in
 
 - 🔭 Writing clean, readable code
 - 🌱 I’m currently on a quest to make lightning fast web-apps with top grade UI
-- 👯 I am open to collaborating!
+- 👯 I'm open to collaborating!
 - 🤝 I’m looking forward to make an amazing connection with you on <a href="https://www.linkedin.com/in/ndumiso-mlambo-a7a93423/" rel="nofollow">LinkedIn</a>
 
